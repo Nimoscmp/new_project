@@ -1,4 +1,4 @@
-//archivo de estilos
+/*archivo de estilos*/
 
 body{
     background-color: darkslategray;
@@ -7,4 +7,9 @@ body{
 
 .texto-gris{
     color: gray;
+}
+
+h1{
+    font-size: 2rem;
+    color: lightgreen;
 }
